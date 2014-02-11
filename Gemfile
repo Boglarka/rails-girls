@@ -52,3 +52,7 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'carrierwave'
+gem 'foreigner'
+gem 'mini_magick', '3.5.0'
+gem 'devise'
+gem 'gravtastic'
